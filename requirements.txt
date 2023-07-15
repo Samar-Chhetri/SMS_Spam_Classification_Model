@@ -6,4 +6,5 @@ Scikit-learn
 nltk
 wordcloud
 ipykernel
+streamlit
 # -e .
