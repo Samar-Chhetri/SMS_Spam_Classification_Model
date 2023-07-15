@@ -27,7 +27,7 @@ In this project, we have made a machine learning model to predict whether an ema
 I'm a passionate data scientist who is actively learning the use of Data Science and Machine Learning is the field of Finance.
 
 ## Dataset Link
-https://www.kaggle.com/datasets/clkmuhammed/creditscoreclassification
+https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
 
 ## 🔗 Links
